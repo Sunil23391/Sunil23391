@@ -7,7 +7,6 @@ Tumkur Main Road, 7th Cross Rd
 Bagalakunte, Bengaluru, Karnataka 560073
 
 Email: sunil.sunxiil.choudhary@gmail.com
-
 GitHub: https://github.com/Sunil23391
 
 
@@ -38,28 +37,25 @@ GitHub: https://github.com/Sunil23391
 
 # PROJECTS
 
-### Project Block 1
-| Row | Content |
-|-----|--------|
-| Heading | LLaMA & SmolLM NLP Models |
-| Description | Fine-tuned transformer models for text generation using custom tokenization, attention masking and optimized training pipelines. Integrated spaCy and NLTK preprocessing and built evaluation scripts to improve model coherence and efficiency across experimentation workflows. |
-| Tools | GitHub, VSCode, Jupyter Notebook, WinPython, PyTorch |
+### LLaMA & SmolLM NLP Models
+| |
+|--|
+| Fine-tuned transformer models for text generation using custom tokenization, attention masking and optimized training pipelines. Integrated spaCy and NLTK preprocessing and built evaluation scripts to improve model coherence and efficiency across experimentation workflows. |
+| GitHub, VSCode, Jupyter Notebook, WinPython, PyTorch |
 
 
-### Project Block 2
-| Row | Content |
-|-----|--------|
-| Heading | Flutter Financial & Salon Apps (ZestMoney + Zenoti) |
-| Description | Developed scalable Flutter applications for financial loan processing and salon booking with modular architecture, payment integration and responsive UI components enabling seamless cross-platform deployment and improved customer self-service workflows. |
-| Tools | GitHub, VSCode, Android Studio, Flutter SDK, Chrome DevTools |
+### Flutter Financial & Salon Apps (ZestMoney + Zenoti)
+| |
+|--|
+| Developed scalable Flutter applications for financial loan processing and salon booking with modular architecture, payment integration and responsive UI components enabling seamless cross-platform deployment and improved customer self-service workflows. |
+| GitHub, VSCode, Android Studio, Flutter SDK, Chrome DevTools |
 
 
-### Project Block 3
-| Row | Content |
-|-----|--------|
-| Heading | React Insurance & External Segmentation Platform |
-| Description | Built enterprise React and Angular applications featuring graphical query building, REST integrations, drag-drop workflows and scalable UI components improving agent productivity and marketing data segmentation. |
-| Tools | GitHub, VSCode, Chrome DevTools, WinMerge, SVN |
+### React Insurance & External Segmentation Platform
+| |
+|--|
+| Built enterprise React and Angular applications featuring graphical query building, REST integrations, drag-drop workflows and scalable UI components improving agent productivity and marketing data segmentation. |
+| GitHub, VSCode, Chrome DevTools, WinMerge, SVN |
 
 
 ## EDUCATION
