@@ -6,8 +6,8 @@ Prestige Jindal City
 Tumkur Main Road, 7th Cross Rd
 Bagalakunte, Bengaluru, Karnataka 560073
 
-Phone: +91 7411697870
 Email: sunil.sunxiil.choudhary@gmail.com
+
 GitHub: https://github.com/Sunil23391
 
 
